@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(243, 233, 207);
+    margin: 30px 40px;
+}
+h1, p {
+    text-align: center;
+}
+.links {
+    color: green;
+    text-align: center;
+    margin-top: 20px;
+}
+.links a {
+    margin-left: 10px;
+}
+a:visited {
+    color: brown;
+}
+img {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
